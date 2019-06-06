@@ -1,5 +1,3 @@
-Challenge level: Medium
-
 Given an input string, reverse the string word by word.
 
 Examples:
